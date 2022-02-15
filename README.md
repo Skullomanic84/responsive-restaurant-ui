@@ -5,5 +5,5 @@
 
 
 
-![Project thumbnail](/Restaurant Home.jpg)
+![Project thumbnail](/RestaurantHome.jpg)
  
