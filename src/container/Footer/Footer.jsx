@@ -14,8 +14,8 @@ const Footer = () => (
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact Us</h1>
         <p className="p__opensans">103 Club avenue, Waterkloof Heights, Pretoria.</p>
-        <p className="p__opensans">+1 212-344-1230</p>
-        <p className="p__opensans">+1 212-555-1230</p>
+        <p className="p__opensans">+27 21-344-1230</p>
+        <p className="p__opensans">+27 21-555-1230</p>
       </div>
 
       <div className="app__footer-links_logo">
