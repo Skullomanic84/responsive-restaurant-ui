@@ -16,10 +16,10 @@
 }
 
 /* media queries */
-@media screen and (min-width: 2000px) {
+@media screen and (max-width: 2000px) {
     .app__header-h1 {
-        font-size: 180px;
-        line-height: 210px;
+        font-size: 100px;
+        line-height: 160px;
     }
 }
 
