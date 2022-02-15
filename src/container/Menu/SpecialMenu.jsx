@@ -9,7 +9,7 @@ import { SubHeading, MenuItem } from '../../components';
 
 const SpecialMenu = () => (
   //Main menu listing
-  <div className='app__specialMenu flex__center section__padding' id="#menu">
+  <div className='app__specialMenu flex__center section__padding' id="menu">
     {/* menu title */}
     <div className="app__specialMenu-title">
       <SubHeading title="Menu That Fits Your Palatte"/>
